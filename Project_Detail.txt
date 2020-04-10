@@ -1,0 +1,9 @@
+.Paste inside root directory( xampp xamp/htdocs,)
+. Create a database with name newsportal
+. Import project.sql file(given inside the zip package in sql file folder)
+.run the script http://localhost/ (frontend)
+
+
+credential for admin panel :
+username : shubham / email : bruts@gmail.com 
+Password : shubham

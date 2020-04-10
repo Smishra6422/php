@@ -1,0 +1,16 @@
+body {
+	padding: 0
+
+}
+.container-alt.container-fluid {
+	width: 100%;
+	padding: 0;
+
+}
+
+.container-alt.container-fluid .navbar {
+	position: relative;
+    width: 100%;
+    display: flex;
+}
+
